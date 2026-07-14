@@ -120,6 +120,53 @@
 
 </div>
 
+---
+## Projects
+
+### Tayari.ai
+> `PRODUCTION` `ACTIVE`
+>
+> An intelligent, multi-agent AI execution platform designed for high-throughput enterprise task automation, custom semantic search pipelines, and context-aware tool routing.
+>
+> `Python` • `FastAPI` • `LangChain` • `Vector Databases` • `Docker`
+
+### Issue-alert
+> `STABLE` `ACTIVE`
+>
+> Real-time monitoring and webhook-driven notification infrastructure that captures repository events instantly to dispatch high-priority situational telemetry directly to engineering teams.
+>
+> `TypeScript` • `Node.js` • `Webhooks` • `API Gateways` • `Jest`
+
+### E-commerce-store
+> `PRODUCTION` `STABLE`
+>
+> A highly optimized, full-stack digital commerce platform engineered for split-second rendering, transactional integrity, state-driven inventory synchronization, and secure gateway checkouts.
+>
+> `React` • `Next.js` • `Node.js` • `PostgreSQL` • `Tailwind CSS`
+
+### Invoice-app
+> `ACTIVE`
+>
+> Automated accounting and freelance billing infrastructure built to manage secure invoice state-tracking, dynamic layout rendering, and complex transaction routing pipelines.
+>
+> `Python` • `Flask` • `Database Optimization` • `Process Automation`
+
+### Nighban-Dastak
+> `PRODUCTION`
+>
+> Secure medical workspace data-hub built to replace fragile physical patient logging systems with high-security access control, persistent record storage, and clinical scheduler microservices.
+>
+> `Python` • `Secure Database Design` • `Process Automation` • `UI Runtime`
+
+### Vocal-Flux
+> `LABS` `EXPERIMENTAL`
+>
+> Low-latency speech transcription and intelligence runtime that processes live streaming audio payloads via WebSockets to compute instantaneous verbal delivery metrics.
+>
+> `Python` • `WebSockets` • `Speech Processing Core` • `Low-Latency Runtimes`
+---
+
+
 <br>
 <div align="center">
   <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
