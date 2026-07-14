@@ -97,57 +97,62 @@
 ### Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahnoor-zaffar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="padding: 6px;" /></a>
-  <a href="https://www.kaggle.com/mahnoor45722" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" style="padding: 6px;" /></a>
-  <a href="https://leetcode.com/u/mahnoor_01/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="padding: 6px;" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="blank">&nbsp;<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>&nbsp;<a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME" target="blank">&nbsp;<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>&nbsp;<a href="https://www.mahnoorzaffar.dev/" target="blank">&nbsp;<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a></p>
 </p>
 
 </div>
 
 ---
-## Projects
+## Selected Work
 
-### Tayari.ai
-> `PRODUCTION` `ACTIVE`
->
-> An intelligent, multi-agent AI execution platform designed for high-throughput enterprise task automation, custom semantic search pipelines, and context-aware tool routing.
->
-> `Python` • `FastAPI` • `LangChain` • `Vector Databases` • `Docker`
+### **Tayari.ai**
 
-### Issue-alert
-> `STABLE` `ACTIVE`
->
-> Real-time monitoring and webhook-driven notification infrastructure that captures repository events instantly to dispatch high-priority situational telemetry directly to engineering teams.
->
-> `TypeScript` • `Node.js` • `Webhooks` • `API Gateways` • `Jest`
+An AI-native workflow platform that enables teams to build, orchestrate, and deploy autonomous multi-agent systems. It combines intelligent task planning, semantic search, tool execution, and long-term memory to automate complex business workflows.
 
-### E-commerce-store
-> `PRODUCTION` `STABLE`
->
-> A highly optimized, full-stack digital commerce platform engineered for split-second rendering, transactional integrity, state-driven inventory synchronization, and secure gateway checkouts.
->
-> `React` • `Next.js` • `Node.js` • `PostgreSQL` • `Tailwind CSS`
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-### Invoice-app
-> `ACTIVE`
->
-> Automated accounting and freelance billing infrastructure built to manage secure invoice state-tracking, dynamic layout rendering, and complex transaction routing pipelines.
->
-> `Python` • `Flask` • `Database Optimization` • `Process Automation`
+### **Issue Alert**
 
-### Nighban-Dastak
-> `PRODUCTION`
->
-> Secure medical workspace data-hub built to replace fragile physical patient logging systems with high-security access control, persistent record storage, and clinical scheduler microservices.
->
-> `Python` • `Secure Database Design` • `Process Automation` • `UI Runtime`
+An AI-powered developer productivity platform that continuously monitors GitHub repositories, analyzes newly opened issues, explains the underlying problem, and delivers actionable solution suggestions directly to developers in real time.
 
-### Vocal-Flux
-> `LABS` `EXPERIMENTAL`
->
-> Low-latency speech transcription and intelligence runtime that processes live streaming audio payloads via WebSockets to compute instantaneous verbal delivery metrics.
->
-> `Python` • `WebSockets` • `Speech Processing Core` • `Low-Latency Runtimes`
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+
+### **E-Commerce Store**
+
+A production-ready digital commerce platform built for modern online businesses, featuring secure authentication, product management, inventory synchronization, payment processing, order tracking, and a fast, responsive shopping experience.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+
+### **Invoice App**
+
+A complete invoicing and client management platform that helps freelancers and small businesses generate professional invoices, track payments, manage customers, and streamline financial workflows from a single dashboard.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+### **Nighban Dastak**
+
+A secure healthcare management platform designed to digitize clinical operations by replacing paper-based workflows with centralized patient records, appointment scheduling, and role-based access for healthcare professionals.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+### **Vocal Flux**
+
+A real-time speech intelligence platform that converts live conversations into structured insights by combining low-latency transcription, speaker analytics, speech metrics, and conversational AI for instant feedback and analysis.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-pink?style=flat-square"/>
+
 ---
 ## Open Source
 
