@@ -1,5 +1,5 @@
 <div align="center" style="font-family: 'Georgia', serif; line-height: 1.6;">
-  <h2>👋 Hi, I'm Mahnoor Z. | Full-Stack Engineer & AI Specialist</h2>
+  <h2>👋 Hi, I'm Mahnoor Z. | Full-Stack Engineer, AI System & Open-source</h2>
   <p>
     <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="100">
   </p>
@@ -11,88 +11,111 @@
   </p>
 </div>
 
-<div style="font-family: 'Georgia', serif;">
 
-##  Tech Stack
+## Daily Drivers
+
+<div align="center">
+  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
+    <tr>
+      <td align="center" width="110" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" style="border-radius: 8px;" alt="Python" />
+      </td>
+      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
+        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">Python</h3>
+        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Most Used Language • Backend & AI</p>
+        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
+          2:54 ━━━━━━━━━━━━⬤─ 3:14
+        </p>
+        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
+          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<div align="center">
+  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
+    <tr>
+      <td align="center" width="110" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" style="border-radius: 8px;" alt="JavaScript" />
+      </td>
+      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
+        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">JavaScript</h3>
+        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Vanilla JS • Frontend & Backend</p>
+        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
+          2:40 ━━━━━━━━━━━━⬤─ 2:58
+        </p>
+        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
+          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Tech Stack
+<div align="center">
+
+<table>
+<tr>
+
+<td valign="top" width="50%">
 
 ### Languages
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,bash,html,css"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,bash,html,css" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
 
-### Frameworks
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,tailwind" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
-</p>
-
-<p align="center">
+### AI & ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/><br>
 <img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
-</p>
 
-### AI / Machine Learning
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
+<td valign="top" width="50%">
 
 ### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" />
-</p>
+### Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx"/>
 
-### Infrastructure & Deployment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,githubactions,vercel,netlify,firebase,supabase" />
-</p>
-
-<p align="center">
+### Deployment
+<img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify,firebase,supabase"/><br>
 <img src="https://img.shields.io/badge/Railway-silver?style=flat-square"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render"/>
-</p>
 
-### Developer Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-<p align="center">
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/><br>
 <img src="https://img.shields.io/badge/Cursor-grey?style=flat-square"/>
 <img src="https://img.shields.io/badge/Claude-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Opencode-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCode-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai"/>
-</p>
 
-
-### Design & Content Creation
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender" />
-</p>
-
-<p align="center">
+### Design
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,blender"/><br>
 <img src="https://img.shields.io/badge/Framer-blue?style=flat-square&logo=framer"/>
 <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro"/>
-<img src="https://img.shields.io/badge/After_Effects-purple?style=flat-square&logo=adobeaftereffects"/>
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects"/>
 <img src="https://img.shields.io/badge/CapCut-white?style=flat-square"/>
-</p>
 
----
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 ### Connect
 
@@ -102,17 +125,17 @@
 
 </div>
 
----
+
 ## Selected Work
 
 ### **Tayari.ai**
-
 An AI-native workflow platform that enables teams to build, orchestrate, and deploy autonomous multi-agent systems. It combines intelligent task planning, semantic search, tool execution, and long-term memory to automate complex business workflows.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<br>
 
 ### **Issue Alert**
 
@@ -153,7 +176,6 @@ A real-time speech intelligence platform that converts live conversations into s
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSockets-pink?style=flat-square"/>
 
----
 ## Open Source
 
 <p align="center">
@@ -181,48 +203,3 @@ A real-time speech intelligence platform that converts live conversations into s
 </p>
 
 
-
-
-
-<br>
-<div align="center">
-  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
-    <tr>
-      <td align="center" width="110" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" style="border-radius: 8px;" alt="Python" />
-      </td>
-      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
-        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">Python</h3>
-        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Most Used Language • Backend & AI</p>
-        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
-          2:54 ━━━━━━━━━━━━⬤─ 3:14
-        </p>
-        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
-          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
-  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
-    <tr>
-      <td align="center" width="110" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" style="border-radius: 8px;" alt="JavaScript" />
-      </td>
-      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
-        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">JavaScript</h3>
-        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Vanilla JS • Frontend & Backend</p>
-        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
-          2:40 ━━━━━━━━━━━━⬤─ 2:58
-        </p>
-        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
-          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
