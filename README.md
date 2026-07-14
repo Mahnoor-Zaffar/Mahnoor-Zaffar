@@ -11,51 +11,6 @@
   </p>
 </div>
 
-
-## Daily Drivers
-
-<div align="center">
-  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
-    <tr>
-      <td align="center" width="110" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" style="border-radius: 8px;" alt="Python" />
-      </td>
-      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
-        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">Python</h3>
-        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Most Used Language • Backend & AI</p>
-        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
-          2:54 ━━━━━━━━━━━━⬤─ 3:14
-        </p>
-        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
-          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<div align="center">
-  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
-    <tr>
-      <td align="center" width="110" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" style="border-radius: 8px;" alt="JavaScript" />
-      </td>
-      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
-        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">JavaScript</h3>
-        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Vanilla JS • Frontend & Backend</p>
-        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
-          2:40 ━━━━━━━━━━━━⬤─ 2:58
-        </p>
-        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
-          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## Tech Stack
 <div align="center">
 
@@ -201,5 +156,49 @@ A real-time speech intelligence platform that converts live conversations into s
     <img src="https://img.shields.io/badge/Zero_To_Mastery-E63946?style=for-the-badge"/>
   </a>
 </p>
+
+## Daily Drivers
+
+<div align="center">
+  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
+    <tr>
+      <td align="center" width="110" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" style="border-radius: 8px;" alt="Python" />
+      </td>
+      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
+        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">Python</h3>
+        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Most Used Language • Backend & AI</p>
+        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
+          2:54 ━━━━━━━━━━━━⬤─ 3:14
+        </p>
+        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
+          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+<div align="center">
+  <table align="center" width="360" style="border-radius: 12px; background-color: #121212; border: 1px solid #282828;">
+    <tr>
+      <td align="center" width="110" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80" style="border-radius: 8px;" alt="JavaScript" />
+      </td>
+      <td style="padding: 15px; color: #FFFFFF; text-align: left;">
+        <h3 style="margin: 0; font-family: 'Georgia', serif; font-weight: bold; font-size: 18px;">JavaScript</h3>
+        <p style="margin: 2px 0 0 0; font-size: 13px; color: #B3B3B3; font-family: 'Georgia', serif;">Vanilla JS • Frontend & Backend</p>
+        <p style="margin: 12px 0 5px 0; font-size: 12px; color: #B3B3B3; font-family: monospace;">
+          2:40 ━━━━━━━━━━━━⬤─ 2:58
+        </p>
+        <p style="margin: 0; font-size: 16px; font-family: 'Georgia', serif;">
+          &nbsp;&nbsp; ⇆ &emsp; ◁ &emsp; ❚❚ &emsp; ▷ &emsp; ↻
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
