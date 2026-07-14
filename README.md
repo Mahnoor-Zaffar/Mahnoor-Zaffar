@@ -11,8 +11,6 @@
   </p>
 </div>
 
----
-
 <div style="font-family: 'Georgia', serif;">
 
 ##  Tech Stack
@@ -23,8 +21,6 @@
 <img src="https://skillicons.dev/icons?i=python,go,js,ts,bash,html,css" />
 </p>
 
-
-
 ### Frameworks
 
 <p align="center">
@@ -34,10 +30,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
 </p>
-
-
-
-
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
@@ -50,23 +42,17 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
 </p>
 
-
-
 ### AI / Machine Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-
-
 ### Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite" />
 </p>
-
-
 
 ### Infrastructure & Deployment
 
@@ -163,6 +149,34 @@
 >
 > `Python` • `WebSockets` • `Speech Processing Core` • `Low-Latency Runtimes`
 ---
+## Open Source
+
+<p align="center">
+  <a href="https://github.com/nodejs">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pandas-dev">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas"/>
+  </a>
+  <a href="https://github.com/QwenLM">
+    <img src="https://img.shields.io/badge/Qwen_AI-7C3AED?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sktime">
+    <img src="https://img.shields.io/badge/sktime-F68C06?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/codecademy">
+    <img src="https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy"/>
+  </a>
+  <a href="https://github.com/aneagoie">
+    <img src="https://img.shields.io/badge/Zero_To_Mastery-E63946?style=for-the-badge"/>
+  </a>
+</p>
+
+
+
 
 
 <br>
