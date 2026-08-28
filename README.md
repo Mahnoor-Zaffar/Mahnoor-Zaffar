@@ -81,54 +81,14 @@
 </div>
 
 
-## Selected Work
+## Featured Work
 
-### Tayari.ai
+| Project | Overview | Stack & Engineering |
+|---|---|---|
+| **Tayari.ai**<br>**AI Technical Interview Platform** | Simulates realistic software engineering interviews through real-time conversation, adaptive questioning, and structured technical evaluation. Built as an end-to-end AI product rather than a question bank or basic LLM wrapper. | **Stack:** `Python` `FastAPI` `OpenAI API` `LangChain` `LlamaIndex` `WebSockets` `SQL` `NoSQL` `Docker`<br><br>**Engineering:** Real-time AI systems · LLM orchestration · conversational state · structured evaluation pipelines |
+| **Vocal Flux**<br>**Real-Time Speech Intelligence** | Converts live conversations into structured insights through streaming transcription, speaker analytics, speech metrics, and conversational AI. Designed around continuous audio processing and low-latency inference. | **Stack:** `Python` `WebSockets` `Whisper` `LLM APIs` `Docker`<br><br>**Engineering:** Streaming systems · real-time audio pipelines · low-latency inference · speaker analysis |
+| **Issue Alert**<br>**AI Developer Operations** | Monitors GitHub repositories, analyzes newly opened issues, identifies potential causes, and generates contextual engineering recommendations. Connects AI directly to the software development lifecycle. | **Stack:** `TypeScript` `Node.js` `OpenAI API` `GitHub API` `Webhooks` `REST`<br><br>**Engineering:** Event-driven architecture · webhook processing · repository-aware LLM analysis · developer automation |
 
-An AI-native workflow platform that enables teams to build, orchestrate, and deploy autonomous multi-agent systems. It combines intelligent task planning, semantic search, tool execution, and long-term memory to automate complex business workflows.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Issue Alert
-
-An AI-powered developer productivity platform that continuously monitors GitHub repositories, analyzes newly opened issues, explains the underlying problem, and delivers actionable solution suggestions directly to developers in real time.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-### E-Commerce Store
-
-A production-ready digital commerce platform built for modern online businesses, featuring secure authentication, product management, inventory synchronization, payment processing, order tracking, and a fast, responsive shopping experience.
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Invoice App
-
-A complete invoicing and client management platform that helps freelancers and small businesses generate professional invoices, track payments, manage customers, and streamline financial workflows from a single dashboard.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### Nighban Dastak
-
-A secure healthcare management platform designed to digitize clinical operations by replacing paper-based workflows with centralized patient records, appointment scheduling, and role-based access for healthcare professionals.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Vocal Flux
-
-A real-time speech intelligence platform that converts live conversations into structured insights by combining low-latency transcription, speaker analytics, speech metrics, and conversational AI for instant feedback and analysis.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=flat-square)
 
 
 ## Open Source
