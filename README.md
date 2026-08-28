@@ -11,6 +11,60 @@
   </p>
 </div>
 
+## Currently Building
+
+<div align="center">
+
+<table width="100%" style="border: 1px solid #282828; border-radius: 12px; border-collapse: separate; background-color: #121212;">
+<tr>
+
+<td width="65%" valign="top" style="padding: 24px; border: none;">
+
+<h3 style="margin: 0; color: #FFFFFF;">ContainerOps AI</h3>
+
+<p style="margin: 6px 0 16px 0; color: #B3B3B3;">
+Autonomous Infrastructure Operations
+</p>
+
+<p style="color: #D0D0D0; line-height: 1.6;">
+An AI-powered operations system that detects container failures, investigates
+root causes, executes controlled remediation, and verifies system recovery.
+</p>
+
+<p>
+<code>Detect</code> →
+<code>Inspect</code> →
+<code>Diagnose</code> →
+<code>Act</code> →
+<code>Verify</code>
+</p>
+
+</td>
+
+<td width="35%" valign="top" style="padding: 24px; border: none;">
+
+<h4 style="margin: 0 0 12px 0; color: #FFFFFF;">Technology</h4>
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" alt="Docker">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL">
+</p>
+
+<p style="color: #B3B3B3; font-size: 13px; line-height: 1.8;">
+Python · Docker · MCP<br>
+PostgreSQL · LLMs · AI Agents<br>
+Observability · Tool Calling
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
 ## Tech Stack
 <div align="center">
 
