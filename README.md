@@ -200,6 +200,68 @@
 
 
 
+
+
+## Certifications & Recognition
+
+
+
+<div align="center">
+  <!-- DataCamp: AI Engineer -->
+  <a href="https://www.datacamp.com/certificate/YOUR_DATACAMP_ID">
+    <img src="https://img.shields.io/badge/DataCamp-AI%20Engineer-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62" alt="DataCamp AI Engineer" />
+  </a>
+
+  <!-- Codecademy: Full-Stack Engineer -->
+  <a href="https://www.codecademy.com/profiles/YOUR_USERNAME/certificates/YOUR_CERT_ID">
+    <img src="https://img.shields.io/badge/Codecademy-Full--Stack%20Engineer-1F2430?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy Full-Stack Engineer" />
+  </a>
+
+  <!-- AWS: Generative AI -->
+  <a href="https://www.credly.com/badges/YOUR_CREDLY_ID">
+    <img src="https://img.shields.io/badge/AWS-Generative%20AI-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS Generative AI" />
+  </a>
+
+  <!-- HackerRank: Software Engineer -->
+  <a href="https://www.hackerrank.com/certificates/YOUR_HACKERRANK_ID">
+    <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=0E141E" alt="HackerRank Software Engineer" />
+  </a>
+
+  <!-- DataCamp: LLM & RAG Systems -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/DataCamp-LLM%20%26%20RAG%20Systems%20(LangChain%20%7C%20Pinecone)-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62" alt="LLM & RAG Systems" />
+  </a>
+
+  <!-- DataCamp: LLMOps & Hugging Face -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/DataCamp-LLMOps%20%26%20Hugging%20Face-05192D?style=for-the-badge&logo=datacamp&logoColor=03EF62" alt="LLMOps & Hugging Face" />
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Open Source
 
 <p align="center">
